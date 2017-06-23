@@ -4,5 +4,9 @@
     "cpus": 0.01,
     "memoryMb": 32,
     "numPorts": 1
-  }
+  },
+  "env": {
+       "OT_ENV": "pp-uswest2",
+       "APP_ENV": "pp"
+    }
 }
