@@ -7,6 +7,5 @@
   },
   "env": {
        "OT_ENV": "pp-uswest2",
-       "APP_ENV": "pp"
     }
 }
