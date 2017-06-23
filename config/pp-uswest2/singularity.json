@@ -6,6 +6,6 @@
     "numPorts": 1
   },
   "env": {
-    "OT_ENV": "prod-uswest2",
+    "OT_ENV": "prod-uswest2"
   }
 }
