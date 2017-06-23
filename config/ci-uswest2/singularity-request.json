@@ -1,0 +1,9 @@
+{
+  "id": "hello-nginx-abalakrishnan",
+  "owners": ["abalakrishnan@opentable.com"],
+  "daemon": true,
+  "rackSensitive": false,
+  "loadBalanced": false,
+  "instances": 3
+}
+

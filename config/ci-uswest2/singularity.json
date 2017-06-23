@@ -1,0 +1,9 @@
+{
+  "requestId": "hello-nginx-abalakrishnan",
+  "skipHealthchecks": True,
+  "resources": {
+    "cpus": 0.01,
+    "memoryMb": 32,
+    "numPorts": 1
+  }
+}
